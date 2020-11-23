@@ -1,0 +1,14 @@
+﻿  Main.cpp
+D:\progra\usefulTrash\sfml_creo\idkHelp2\Main.cpp(9,48): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\progra\usefulTrash\sfml_creo\idkHelp2\Main.cpp(9,28): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Menu.cpp
+  Generando código...
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: tipo de equipo del módulo 'x64' en conflicto con tipo de equipo de destino 'x86'

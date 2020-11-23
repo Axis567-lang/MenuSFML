@@ -1,0 +1,14 @@
+﻿  Main.cpp
+D:\progra\usefulTrash\sfml_creo\idkHelp2\Main.cpp(35,48): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+D:\progra\usefulTrash\sfml_creo\idkHelp2\Main.cpp(35,28): warning C4244: 'argumento': conversión de 'T' a 'float'; posible pérdida de datos
+          with
+          [
+              T=unsigned int
+          ]
+  Menu.cpp
+  Generando código...
+  idkHelp2.vcxproj -> D:\progra\usefulTrash\sfml_creo\idkHelp2\x64\Debug\idkHelp2.exe

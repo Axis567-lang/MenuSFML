@@ -1,0 +1,2 @@
+D:\progra\usefulTrash\sfml_creo\idkHelp2\x64\Debug\idkHelp2.exe
+D:\progra\usefulTrash\sfml_creo\idkHelp2\x64\Debug\idkHelp2.pdb
